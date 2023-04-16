@@ -51,8 +51,8 @@
 		0398FC2529EC72D300835146 /* BasicAgencyApp */ = {
 			isa = PBXGroup;
 			children = (
+				0398FC3429EC731900835146 /* Views */,
 				0398FC2629EC72D300835146 /* BasicAgencyAppApp.swift */,
-				0398FC2829EC72D300835146 /* ContentView.swift */,
 				0398FC2A29EC72D400835146 /* Assets.xcassets */,
 				0398FC2C29EC72D400835146 /* Preview Content */,
 			);
@@ -65,6 +65,14 @@
 				0398FC2D29EC72D400835146 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0398FC3429EC731900835146 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0398FC2829EC72D300835146 /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
